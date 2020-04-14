@@ -1,0 +1,8 @@
+SystemID SNES
+000022	w	u	0	WRAM	P1 X coor
+000026	w	u	0	WRAM	P2 X coor
+000836	w	u	0	WRAM	P2 HP
+000636	w	u	0	WRAM	P1 HP
+00053A	w	u	0	WRAM	P1 Forward, Still, Jumping, Crouching
+00073A	w	u	0	WRAM	p2 Forward, Still, Jumping, Crouching
+
